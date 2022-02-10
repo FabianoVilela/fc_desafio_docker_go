@@ -14,6 +14,7 @@ Passos:
 
 Evidências:
 
-[Saida](output_programa.png)
+![Saida](output_programa.png)
 
-[Tamanho de Imagem](image_size.png)
+![Tamanho de Imagem](image_size.png)
+
