@@ -7,6 +7,8 @@ Utilizei uma imagem alpine para compilar um programa em go.
 Utilizei esse programa compilado e copiei o mesmo para uma outra imagem docker Scratch, para ela sim rodar a aplicacao go.
 
 
+Pode-se rodar a imagem diretamento do docker-compose ou então buildando a imagem e depois utilizando o docker run
+
 Passos DockerCompose:
 1. Clonar Repositório
 2. docker-compose up --build
